@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/urvakshmehta/urvaksh/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <title>My Web Page</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+<img align="left" src="urvaksh.jpg"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1>URVAKSH MEHTA</h1>
 
-```markdown
-Syntax highlighted code block
+<p align="justify"><font size="6"><b>Lorem Ipsum</b> is simply <s>dummy</s> text of the <u>printing</u> and <i>typesetting</i> industry</font>.
+    Lorem Ipsum has been the industry's
+    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
+    a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
+    remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
+    Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
+    of Lorem Ipsum.</p>
 
-# Header 1
-## Header 2
-### Header 3
+<br/>
 
-- Bulleted
-- List
+<p align="justify"><b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+    been the industry's
+    standard dummy text ever since the <i>1500s</i>, when an unknown printer took a galley of type and scrambled it to
+    make
+    a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
+    remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
+    Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
+    of Lorem Ipsum.</p>
 
-1. Numbered
-2. List
+<br/>
 
-**Bold** and _Italic_ and `Code` text
+<p>Following are my Hobbies</p>
 
-[Link](url) and ![Image](src)
-```
+<ol type="1" start="1">
+    <li><font color="yellow"> Watching Movies</font></li>
+    <li><font color="red">Playing Cricket</font></li>
+    <li><font color="#adff2f">Cycling</font></li>
+    <li><font color="#00bfff">Swimming</font></li>
+</ol>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br/>
 
-### Jekyll Themes
+<p>Check out my social links bellow</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/urvakshmehta/urvaksh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<ul type="square">
+    <li>Facebook</li>
+    <li>Instagram</li>
+    <li>Linkedin</li>
+    <li>Twitter</li>
+</ul>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<table width="50%" border="1">
+
+    <caption>
+        <h4>My Cricket Match Score</h4>
+    </caption>
+
+    <tr bgcolor="green">
+        <th><font color="white">Match</font></th>
+        <th><font color="white">Score</font></th>
+    </tr>
+
+    <tr align="center">
+        <td>Me vs Sahil</td>
+        <td>50</td>
+    </tr>
+
+    <tr align="center">
+        <td>Me vs Tirth</td>
+        <td>57</td>
+    </tr>
+
+    <tr align="center">
+        <td>Me vs Jayesh</td>
+        <td>40</td>
+    </tr>
+
+</table>
+
+</body>
+
+</html>
