@@ -11,7 +11,7 @@
 
 <h1>URVAKSH MEHTA</h1>
 
-<p align="justify"><font size="6"><b>Lorem Ipsum</b> is simply <s>dummy</s> text of the <u>printing</u> and <i>typesetting</i> industry</font>.
+<p align="justify"><font size="6"><b>urvaksh mehta</b></font>.
     Hello,My name is <b>urvaksh mehta</b></p>
 
 <br/>
