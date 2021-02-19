@@ -60,10 +60,7 @@
         <h4>My Cricket Match Score</h4>
     </caption>
 
-    <tr bgcolor="green">
-        <th><font color="white">Match</font></th>
-        <th><font color="white">Score</font></th>
-    </tr>
+   
 
 
 </table>
