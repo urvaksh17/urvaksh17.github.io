@@ -11,7 +11,7 @@
 
 <h1>URVAKSH MEHTA</h1>
 
-<p align="justify"><font size="6"><b>urvaksh mehta</b></font>.
+<p align="justify"><font size="6"><b>Urvaksh Mehta</b></font>.
     Hello,My name is <b>urvaksh mehta</b></p>
 
 <br/>
