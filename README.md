@@ -9,7 +9,7 @@
 
 <img align="left" src="urvaksh.jpg"/>
 
-<h1>URVAKSH MEHTA rox</h1>
+<h1>URVAKSH MEHTA</h1>
 
 <p align="justify"><font size="6"><b>Lorem Ipsum</b> is simply <s>dummy</s> text of the <u>printing</u> and <i>typesetting</i> industry</font>.
     Lorem Ipsum has been the industry's
@@ -65,20 +65,6 @@
         <th><font color="white">Score</font></th>
     </tr>
 
-    <tr align="center">
-        <td>Me vs Sahil</td>
-        <td>50</td>
-    </tr>
-
-    <tr align="center">
-        <td>Me vs Tirth</td>
-        <td>57</td>
-    </tr>
-
-    <tr align="center">
-        <td>Me vs Jayesh</td>
-        <td>40</td>
-    </tr>
 
 </table>
 
